@@ -9,7 +9,7 @@ Salut! Sunt un developer Minecraft pasionat, cu experienta in crearea de pluginu
 - 🎯 **Specializat in:** pluginuri custom pentru Spigot/Paper
 - 🛠️ **Experienta:** 2+ ani in dezvoltare Minecraft, Java, YAML
 - ⚙️ **Focus:** performanta, modularitate si usurinta in configurare
-- 📘 **Limbaje:** Java, YAML, MySQL
+- 📘 **Limbaje:** Java, YAML, HTML, CSS, JavaScript
 - 🧠 **Tooling:** IntelliJ IDEA, Git, Maven
 
 ---
