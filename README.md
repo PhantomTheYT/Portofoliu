@@ -1,6 +1,6 @@
-# 🌍 Minecraft Developer Portofoliu – Fabian2023
+# 🌍 Minecraft Developer Portofoliu – PhantomTheYT
 
-Salut! Sunt un developer Minecraft pasionat, cu experienta in crearea de pluginuri custom pentru servere Spigot/Paper. Creez sisteme optimizate, bine documentate si usor de personalizat pentru orice tip de server – de la survival clasic la retele complexe.
+Salut! Sunt un developer Minecraft pasionat, cu experienta in crearea de pluginuri custom pentru servere Spigot/Paper. Creez sisteme optimizate, bine documentate si usor de personalizat pentru orice tip de server de la survival clasic la retele complexe.
 
 ---
 
@@ -37,9 +37,9 @@ Un plugin complex de tip *staff system*, ce ofera unelte avansate pentru moderar
 
 ## 📫 Contact
 
-- 💼 GitHub: [github.com/Fabian2023Developer](https://github.com/Fabian2023Developer)
+- 💼 GitHub: [github.com/PhantomTheYT](https://github.com/PhantomTheYT)
 - 📬 Email: fabianbaciu94@gmail.com
-- 💬 Discord: `_fabian_baciu_`
+- 💬 Discord: `_phantom_yt_`
 
 ---
 
